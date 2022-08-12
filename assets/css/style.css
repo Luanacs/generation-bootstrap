@@ -50,11 +50,14 @@
     margin-bottom: 50px;
 }
 
+.font-padrao{
+    font-family: 'IBM Plex Mono', monospace;
+    color: #cb6452
+}
 
 
 
-
-/*Estilos da página contato..html*/
+/* Estilos da página contato..html
 .ml-50{
     margin-left: 50px;
-}
+} */
